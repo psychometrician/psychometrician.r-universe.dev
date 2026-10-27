@@ -8,7 +8,8 @@
   {
     "package": "god",
     "url": "https://github.com/psychometrician/god",
-    "subdir": "r-pkg/god"
+    "subdir": "r-pkg/god",
+    "branch": "release"
   },
   {
     "package": "fathom",
